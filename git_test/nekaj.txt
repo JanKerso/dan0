@@ -1,3 +1,5 @@
 neko zacetno besedilo.
 
 nova funkcija.
+
+Še ena nova funkcija.

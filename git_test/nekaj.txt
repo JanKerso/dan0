@@ -1,5 +1,11 @@
 neko zacetno besedilo.
 
+
 nova funkcija.
 
+
 boljsa implementacija funkcije 2
+
+
+veliko nove kode
+

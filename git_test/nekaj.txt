@@ -1,3 +1,5 @@
 neko zacetno besedilo.
 
 nova funkcija.
+
+boljsa implementacija funkcije 2
